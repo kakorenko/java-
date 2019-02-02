@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	int year=1700;
+	int year=2016;
 	if (year%400==0){
         System.out.println("високосный");
     }
