@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ee15c9-0398-4d45-a8b7-80a36de50914" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find integer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../find integer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find integer/out/production/определение целого числа/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../find integer/out/production/определение целого числа/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find integer/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../find integer/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../massiv/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../massiv/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/java/META-INF/java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/java/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +15,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/bablsort$Main.ic" NAME="Main Coverage Results" MODIFIED="1550485509377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../find integer/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -48,14 +49,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../find integer/src/com/company/Main.java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,16 +101,18 @@
       <workItem from="1549395791498" duration="1824000" />
       <workItem from="1549531164494" duration="246000" />
       <workItem from="1549653114631" duration="96000" />
+      <workItem from="1550485286808" duration="349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2166000" />
+    <option name="totallyTimeSpent" value="2515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14901665" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15128593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -128,6 +132,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32843137" />
+      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.022692889" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -142,13 +147,28 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../find integer/src/com/company/Main.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../find integer/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

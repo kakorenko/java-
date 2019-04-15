@@ -3,20 +3,28 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        int n=31;
-        int []a=new int[n];
-        for (int i=0;i<n;i++){
-            a[i]=i;
-        }
+        int n=11;
+        int j =2;
+        for(int i=3;i<n;i++){
+            boolean flag = false;
 
-        for(int i=2;i<a.length;i++){
-            for(int j=2;j<i;j++){
+            for(j=2;j<i;j++){
                 if ((i%j)==0){
-                    System.out.println("не целое"+a[i]);
+                    flag = true;
                     break;
                 }
-
             }
+
+            // 1 способ
+            /*if(j==i){
+                System.out.println(i);
+            }*/
+
+            // 2 способ
+            if(flag==false){
+                System.out.println(i);
+            }
+
 
         }
     }
